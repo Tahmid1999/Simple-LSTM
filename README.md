@@ -3,7 +3,7 @@ LSTM stands for long short-term memory networks, used in the field of Deep Learn
  
 In this program, I built a  simple  LSTM to predict complete sentences. 
 As like google search suggestion. 
-Though for my machine's limitations, I train with my little dataset which is ta1.txt . To get a better result, you should use a large text corpus. 
+Though for my machine's limitations, I train with my little dataset which is ta2.txt . To get a better result, you should use a large text corpus. 
 
 Some examples of our test - <br/>
 Input -> I<br/>
