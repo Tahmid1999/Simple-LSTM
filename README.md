@@ -5,7 +5,7 @@ In this program, I built a  simple  LSTM to predict complete sentences.
 As like google search suggestion. 
 Though for my machine's limitations, I train with my little dataset which is ta1.txt . To get a better result, you should use a large text corpus. 
 
-Some examples of our test - 
-Input -> I
-Output -> drink rice
-I drink rice was not in our dataset. That means the model learned something  
+Some examples of our test - <br/>
+Input -> I<br/>
+Output -> drink rice<br/>
+I drink rice was not in our dataset. That means the model learned something  <br/>
